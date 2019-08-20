@@ -1,4 +1,4 @@
-音源分離を行い，特定の人物の声のみを抽出
-========================================
+Sound Separation of Multiple Speakers on a Single Channel
+=========================================================
 
-開発中
+In development...

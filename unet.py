@@ -4,15 +4,15 @@ from tensorflow.keras import Model
 
 
 class UNet(object):
-    def __init___(self):
+    def __init__(self):
         ## -----*----- コンストラクタ -----*----- ##
         self.batch_size = 64
-        self.epochs = 10
+        self.epochs = 30
 
         self.model_path = './ckpt/model.hdf5'
 
         # モデルを構築
-        self.build()
+        self.model = self.build()
 
     def train(self, x, y):
         ## -----*----- 学習 -----*----- ##
@@ -21,7 +21,7 @@ class UNet(object):
         # 学習モデルを保存
         self.model.save_weights(self.model_path)
 
-    def build(self, input_size=(128, 128, 1)):
+    def build(self, input_size=(128, 48, 1)):
         ## -----*----- U-Netの構築 -----*----- ##
         inputs = Input(input_size)
         conv1 = Conv2D(32, 3, activation='relu', padding='same', kernel_initializer='he_normal')(inputs)
@@ -82,9 +82,3 @@ class UNet(object):
     def predict(self, data):
         ## -----*----- 推論 -----*----- ##
         return self.model.predict(data)
-
-
-if __name__ == '__main__':
-    unet = UNet()
-    # 学習
-    unet.train()

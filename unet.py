@@ -7,7 +7,7 @@ class UNet(object):
     def __init__(self):
         ## -----*----- コンストラクタ -----*----- ##
         self.batch_size = 64
-        self.epochs = 30
+        self.epochs = 20
 
         self.model_path = './ckpt/model.hdf5'
 
@@ -71,7 +71,7 @@ class UNet(object):
         # モデルを定義
         model = Model(inputs=inputs, outputs=conv10)
         # モデルをコンパイル
-        model.compile(optimizer='sgd', loss='mean_squared_error', metrics=['accuracy'])
+        model.compile(optimizer='sgd', loss='mse')
 
         return model
 

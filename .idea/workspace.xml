@@ -12,13 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AES.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../RSA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Sound_Source_Separation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Speaker_Identification" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Speech_Recognition" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Voice_Recording" afterDir="false" />
@@ -300,11 +293,11 @@
       <change afterPath="$PROJECT_DIR$/../tetris.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../turtle_test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xor-train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ckpt/model.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/ckpt/model.hdf5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/model.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infer.py" beforeDir="false" afterPath="$PROJECT_DIR$/infer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infer.wav" beforeDir="false" afterPath="$PROJECT_DIR$/infer.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/origin.wav" beforeDir="false" afterPath="$PROJECT_DIR$/origin.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.wav" beforeDir="false" afterPath="$PROJECT_DIR$/output.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unet.py" beforeDir="false" afterPath="$PROJECT_DIR$/unet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -324,8 +317,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-231">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="3">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
               <folding>
                 <element signature="e#23#111#0" expanded="true" />
               </folding>
@@ -336,10 +329,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/infer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="131" column="17" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+            <state relative-caret-position="185">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
               <folding>
                 <element signature="e#23#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/make_teacher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+              <folding>
+                <element signature="e#24#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -400,7 +405,6 @@
         <option value="$PROJECT_DIR$/ica.py" />
         <option value="$PROJECT_DIR$/feature.py" />
         <option value="$USER_HOME$/.pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/functions.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/io_wav.py" />
         <option value="$PROJECT_DIR$/mix_wav.py" />
         <option value="$PROJECT_DIR$/../Speech_Recognition/detection.py" />
@@ -413,6 +417,7 @@
         <option value="$PROJECT_DIR$/make_teacher.py" />
         <option value="$PROJECT_DIR$/shift.py" />
         <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/unet.py" />
         <option value="$PROJECT_DIR$/infer.py" />
       </list>
@@ -436,17 +441,6 @@
             <path>
               <item name="Sound_Source_Separation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sound_Source_Separation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sound_Source_Separation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sound_Source_Separation" type="462c0819:PsiDirectoryNode" />
-              <item name="teacher_datas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sound_Source_Separation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sound_Source_Separation" type="462c0819:PsiDirectoryNode" />
-              <item name="teacher_datas" type="462c0819:PsiDirectoryNode" />
-              <item name="あー" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -497,17 +491,48 @@
       <workItem from="1565814791828" duration="11231000" />
       <workItem from="1565990242857" duration="23597000" />
       <workItem from="1566152380331" duration="21811000" />
-      <workItem from="1566453329207" duration="376000" />
+      <workItem from="1566453329207" duration="7183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73392000" />
+    <option name="totallyTimeSpent" value="80199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49357328" visible="true" weight="0.2284345" />
+      <window_info id="Structure" order="1" sideWeight="0.50642675" side_tool="true" weight="0.2284345" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.22970296" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Favorites" order="12" sideWeight="0.50076103" weight="0.24851485" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Json Parser" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49490538" visible="true" weight="0.2284345" />
       <window_info id="Structure" order="1" sideWeight="0.5050946" side_tool="true" weight="0.2257721" />
       <window_info id="Designer" order="2" />
@@ -522,38 +547,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.319802" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Favorites" order="12" sideWeight="0.50076103" weight="0.2489796" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Json Parser" order="6" />
-      <window_info anchor="right" id="SciView" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49619484" visible="true" weight="0.25885227" />
-      <window_info id="Structure" order="1" sideWeight="0.50380516" side_tool="true" visible="true" weight="0.25885227" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -624,7 +617,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec0.png" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/io_wav.py" />
     <entry file="file://$PROJECT_DIR$/../xor-train.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -751,16 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/make_teacher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="116" column="22" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recording.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
@@ -779,20 +761,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unet.py">
+    <entry file="file://$PROJECT_DIR$/zscore.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="509">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
           <folding>
             <element signature="e#23#111#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/unet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="e#23#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#24#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/infer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="131" column="17" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+        <state relative-caret-position="185">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
           <folding>
             <element signature="e#23#111#0" expanded="true" />
           </folding>

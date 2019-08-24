@@ -35,7 +35,7 @@ class Infer(object):
 
         cnt = 0
         n = min([len(tmp[0]), len(tmp[1])])
-        """for i in range(n):
+        for i in range(n):
             if cnt % 100 == 0:
                 print(cnt)
             cnt += 1
@@ -46,12 +46,13 @@ class Infer(object):
                 self.datas['label'][-1].append([])
                 for k in range(48):
                     self.datas['label'][-1][-1].append([])
-                    sum = abs(tmp[0][i][j][k] + tmp[1][i][j][k])
+                    sum = tmp[0][i][j][k] + tmp[1][i][j][k]
                     if sum == 0.0:
                         self.datas['label'][-1][-1][-1] = 0
                     else:
-                        self.datas['label'][-1][-1][-1] = abs(tmp[0][i][j][k]) / sum"""
-        for i in range(n):
+                        self.datas['label'][-1][-1][-1] = abs(tmp[0][i][j][k] / sum)
+
+        '''for i in range(n):
             for i2 in range(n):
                 if cnt % 100 == 0:
                     print('{0}/{1}'.format(cnt, n ** 2))
@@ -67,7 +68,7 @@ class Infer(object):
                         if sum == 0.0:
                             self.datas['label'][-1][-1][-1] = 0
                         else:
-                            self.datas['label'][-1][-1][-1] = abs(tmp[0][i][j][k]) / sum
+                            self.datas['label'][-1][-1][-1] = abs(tmp[0][i][j][k]) / sum'''
 
         # NumPy配列に変換
         self.datas['spec'] = np.array(self.datas['spec'])
@@ -118,7 +119,7 @@ if __name__ == '__main__':
     infer = Infer()
 
     # 学習
-    #infer.train()
+    infer.train()
 
     a_voice = wf.read('./teacher_datas/あー/0.wav')[1]
     i_voice = wf.read('./teacher_datas/いー/1.wav')[1]
@@ -130,18 +131,19 @@ if __name__ == '__main__':
     spec_mixed = infer.stft(mixed)
 
     # -----------
-    """out = spec_mixed
-    for i in range(120):
-        for j in range(40):
+    out = spec_mixed
+    for i in range(128):
+        for j in range(48):
             if spec_mixed[i][j] == 0:
                 out[i][j] = 0
             else:
-                out[i][j] *= abs(spec_a[i][j]) / abs(spec_mixed[i][j])
-                print (abs(spec_a[i][j]) / abs(spec_mixed[i][j]))
+                out[i][j] *= abs(spec_a[i][j] / spec_mixed[i][j])
+                print(abs(spec_a[i][j] / spec_mixed[i][j]))
 
     out_wav = np.array(infer.istft(out), dtype='int16')
-    wf.write('output.wav', 16000, out_wav)"""
-    # -----------
+    wf.write('output.wav', 16000, out_wav)
+    #exit(0)
+    # -----------1
     spec_mixed = infer.stft(wf.read('./mixed.wav')[1])
 
     input = []
@@ -161,7 +163,7 @@ if __name__ == '__main__':
             if j == 48:
                 break
             tmp[i][j] *= vector[i][j][0]
-            #print (vector[i][j][0])
+            # print (vector[i][j][0])
 
     rewav = infer.istft(tmp)
     rewav = np.array(rewav, dtype='int16')
@@ -170,12 +172,12 @@ if __name__ == '__main__':
     out_wav = np.array(infer.istft(spec_mixed), dtype='int16')
     wf.write('origin.wav', 16000, out_wav)
 
-    #exit(0)
+    # exit(0)
 
     import matplotlib.pyplot as plt
 
     plt.figure()
     plt.plot(mixed)
     plt.plot(rewav)
-    plt.plot(a_voice)
+    # plt.plot(a_voice)
     plt.show()

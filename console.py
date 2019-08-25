@@ -79,6 +79,6 @@ class Console(object):
 
 
 if __name__ == '__main__':
-    draw = Console('./design.txt')
+    draw = Console('./files/design.txt')
     draw.draw(100, 123, 503, '\033[92m録音中\033[0m', '■■■', '■■■■■■■■■■■■■', '\033[94m■■■■■■■■■■■■■■■■■■\033[0m')
     print('\033[{0}B'.format(len(draw.text.split('\n')) + 1))

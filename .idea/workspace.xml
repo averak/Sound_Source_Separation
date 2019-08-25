@@ -2,303 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d6a6b5-e8fa-4615-9f0e-d6672d914ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/StickySelectionHighlights.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.test.py.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RSA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Speaker_Identification" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Speech_Recognition" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voice_Recording" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../averaging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../avhash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../botengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/.idea/StickySelectionHighlights.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/.idea/cnn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/dist_train.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/fashion_mnist_examples.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/janome_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/saved_models/keras_cifar10_trained_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/test04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cnn/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cronTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dounut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../editor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../get_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../julius.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lifeGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../matrix_rotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../osero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/books.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-kawase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-select.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-usd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/bs-zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/cr-getall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/cr-path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/cr-path2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/download-ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/download-png1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/download-png2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/download-zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/fruits-vegetables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/hyakunin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/sel-avocado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/sel-books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/sel-re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch1/sel-souseki.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/api-weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/download-eki-link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/eki-link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/everyday-kawase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/get-eki-link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/ghostdriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/login-getfav.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/requests-png.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/requests-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/selenium-capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/selenium-js.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/selenium-login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/sns-fav-all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/sns-logined.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/sns-sakuhin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch2/table-eki-link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/a.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/buta-sjis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/buta-utf8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/csv-read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/csv-read2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/csv-write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/excel-read-pd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/excel-read-xlrd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/excel-read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/excel-write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/hyakunin.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/json-hyakunin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/json-out.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/list-sjis.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/mysql-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/population-total.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/population.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/shelter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/sqlite-test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/sqlite3-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/test.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/test2.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/tinydb-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/write100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/xml-bousai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/xml-bousai2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/yaml-alias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/yaml-io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch3/yaml-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-plot2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi-test2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/bmi.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_01.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_02.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_03.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_04.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_05.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_06.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_07.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_08.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_09.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/freq.pkl_11.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cgi-bin/lang-webapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cross-iris.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/cross-iris2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/grid-mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/iris-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/iris-train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang-plot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang-plot2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang-train-save.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang-train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/lang.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mnist-download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mnist-tocsv-full.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mnist-tocsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mnist-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mnist/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mushroom-download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mushroom-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mushroom-train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/mushroom.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/xor-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch4/xor-train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/.ipynb_checkpoints/BMI-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/.ipynb_checkpoints/jupyter-firststep-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/.ipynb_checkpoints/tensorflow-basic-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/.ipynb_checkpoints/tensorflow-test-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/BMI.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/bmi.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/calc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/calc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/jupyter-firststep.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/keras-bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/keras-mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/mnist-deep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/np-test-calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-norm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-norm2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-rot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-slice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/pd-test-sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/placeholder1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/placeholder2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/tb-add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/tb-bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/tb-bmi2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/tb-mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/tensorflow-test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch5/xor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/.ipynb_checkpoints/Word2Vec-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/.ipynb_checkpoints/mlp-classify-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/.kokoro.wakati.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/.lev-distance.py.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/456_ruby_145.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/773_ruby_5968.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/Word2Vec.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/bayes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/bayes_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/cgi-bin/botengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/cgi-bin/chatbot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/chatbot-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/ginga-count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/kokoro-2d.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/kokoro-count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/kokoro-count2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/kokoro.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/kokoro.txt.sjis" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/kokoro.wakati" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/lev-distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/lstm-text-gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/ma-janome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/ma-mecab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/markov-kokoro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/markov.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/markov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/mlp1-wakati.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/mlp2-seq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/mlp3-classify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/mlp3-classify_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/mlp4-classify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/ngram-mk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/ngram-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/ngram-test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/wiki-mkdic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/word2vec-kokoro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/word2vec-mkmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/word2vec-simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/word2vec-split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/word2vec-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch6/word2vec-test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/avhash-search-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/avhash-search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/avhash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/caltech101_keras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/caltech101_keras2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/caltech101_makedata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/facedetect-mosaic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/facedetect-output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/facedetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/font_draw.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/font_draw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/generalsamples.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon-checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon-hand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon-makedata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon-makedata2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon-result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon_downloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon_keras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/gyudon_keras2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/mnist.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/num-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/num-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/num-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers-cnt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers-th.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers100-ng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers100-ok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers100-th.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/numbers2-rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/ocr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/ocr2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/ocr3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/ocr4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/ocr_learn_font.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/ocr_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/photo.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/photo/face1-facedetect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/photo/face1-mosaic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/photo/face1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/photo/face2-mosaic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/photo/face2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/sample-beni.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/sample-cheese.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/sample-gyudon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/sample-negitama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ch7/tower.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tetris.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xor-train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ckpt/model.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/ckpt/model.hdf5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infer.py" beforeDir="false" afterPath="$PROJECT_DIR$/infer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infer.wav" beforeDir="false" afterPath="$PROJECT_DIR$/infer.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/origin.wav" beforeDir="false" afterPath="$PROJECT_DIR$/origin.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.wav" beforeDir="false" afterPath="$PROJECT_DIR$/output.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unet.py" beforeDir="false" afterPath="$PROJECT_DIR$/unet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/console.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -315,36 +21,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-              <folding>
-                <element signature="e#23#111#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/../Speech_Recognition/recording.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infer.py">
+        <entry file="file://$PROJECT_DIR$/clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+            <state relative-caret-position="244">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
-                <element signature="e#23#111#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/make_teacher.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
-              <folding>
-                <element signature="e#24#44#0" expanded="true" />
+                <element signature="e#23#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -378,6 +65,7 @@
       <find>abs</find>
       <find>stft</find>
       <find>tmp[1]</find>
+      <find>compile</find>
     </findStrings>
     <replaceStrings>
       <replace>sigmoid</replace>
@@ -420,13 +108,16 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/unet.py" />
         <option value="$PROJECT_DIR$/infer.py" />
+        <option value="$PROJECT_DIR$/console.py" />
+        <option value="$PROJECT_DIR$/clustering.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="210" />
+    <option name="y" value="146" />
+    <option name="width" value="1260" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -434,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -442,10 +132,16 @@
               <item name="Sound_Source_Separation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sound_Source_Separation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sound_Source_Separation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sound_Source_Separation" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -492,16 +188,19 @@
       <workItem from="1565990242857" duration="23597000" />
       <workItem from="1566152380331" duration="21811000" />
       <workItem from="1566453329207" duration="7183000" />
+      <workItem from="1566631382003" duration="1966000" />
+      <workItem from="1566690280809" duration="4373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80199000" />
+    <option name="totallyTimeSpent" value="86538000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49357328" visible="true" weight="0.2284345" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49357328" visible="true" weight="0.2032967" />
       <window_info id="Structure" order="1" sideWeight="0.50642675" side_tool="true" weight="0.2284345" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -514,7 +213,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.22970296" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.22244897" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -667,16 +366,6 @@
     <entry file="file://$PROJECT_DIR$/spec.py" />
     <entry file="file://$PROJECT_DIR$/test01.py" />
     <entry file="file://$PROJECT_DIR$/test02.py" />
-    <entry file="file://$PROJECT_DIR$/../Speech_Recognition/recognizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="e#23#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/j.py" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -761,45 +450,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zscore.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-          <folding>
-            <element signature="e#23#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding>
-            <element signature="e#23#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zscore.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/make_teacher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        <state relative-caret-position="1300">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
           <folding>
             <element signature="e#24#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/infer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+        <state relative-caret-position="507">
+          <caret line="85" column="55" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="85" selection-end-column="55" />
           <folding>
             <element signature="e#23#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Speech_Recognition/infer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Speech_Recognition/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="53" column="51" lean-forward="true" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="82" />
+          <folding>
+            <element signature="e#23#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="21" column="48" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="e#23#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Speech_Recognition/recording.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#23#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
